@@ -21,7 +21,7 @@ Here are some screenshots of a general sales analytics dashboard. There are some
 such as sales/profit by various other dimensions then those shown. 
 
 Dashboard:
-[Sales Dashboard](reports/dashboard.png)
+![Sales Dashboard](reports/dashboard.png)
 
 ## Findings
 Based off of the following report it maybe necessary for the business to evaluate whether or not it should continue offering 
@@ -31,14 +31,14 @@ products from the following sub-categories:
 - Bookcases
 - Tables
 
-[Profit/Loss by Sub-Category](reports/profit_loss_by_subc.png)
+![Profit/Loss by Sub-Category](reports/profit_loss_by_subc.png)
 
 Additionally the data suggest that an effort could be made to evaluate the reasons behind why high discount pct. (determined
 by business) are being offered for certain categories or during specific periods of the year. This can be seen in the following:
 
-[Losses Summed by Month (Not Month and Year)](reports/losses_same_mont_across_years.png)
+![Losses Summed by Month (Not Month and Year)](reports/losses_same_mont_across_years.png)
 
-[Profit/Loss by Discount Pct. and Sub-Category](reports/profit_loss_dis_pct_sub_c.png)
+![Profit/Loss by Discount Pct. and Sub-Category](reports/profit_loss_dis_pct_sub_c.png)
 
 ## Additional/Future Thinking
 For further in-depth findings it would be necessary to have data that is not offered in this dataset, such as item price, sales tax,
